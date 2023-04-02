@@ -23,5 +23,5 @@ I am a friendly and responsible person who enjoys learning about technology and 
 
 ## 💬 Languages that I speak
 
-* 🇪🇸Spanish - (fluent)
-* 🇪🇳English - (currently learning)
+* Spanish - (fluent)
+* English - (currently learning)
