@@ -4,7 +4,7 @@ Hello, my name is Hecdin Farias.
 
 I am a friendly and responsible person who enjoys learning about technology and digital marketing topics.
 
-## 📝 Proyects
+## 📝 My proyects
 
 * [dot.files](https://github.com/farias-hecdin/dot.files) - My personal dotfiles.
 * [HexToFilter](https://github.com/farias-hecdin/HexToFilter) - Add color to your SVG icons easily.
