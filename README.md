@@ -6,7 +6,7 @@ I am a friendly and responsible person who enjoys learning about technology and 
 
 ## 📝 Proyects
 
-* [dot.files](https://github.com/farias-hecdin/dot.files) - My personal dotfiles.
+* [dotfiles](https://github.com/farias-hecdin/dotfiles) - My personal dotfiles.
 * [HexToFilter](https://github.com/farias-hecdin/HexToFilter) - Add color to your SVG icons easily.
 * [Lare](https://github.com/farias-hecdin/Lare) - Decrease the bitrate of your MP3 files from the terminal.
 * [Luatiny](https://github.com/farias-hecdin/Luatiny) - Minifier for Lua files.
