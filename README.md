@@ -13,13 +13,7 @@ I am a friendly and responsible person who enjoys learning about technology and 
 
 ## 💻 Languages and tools
 
-<p align="left">
-  <a href="#"><img width="32px" src="https://img.icons8.com/color/2x/bash.png"></a>
-  <a href="#"><img width="32px" src="https://img.icons8.com/color/2x/html-5.png"/></a>
-  <a href="#"><img width="32px" src="https://img.icons8.com/color/2x/css3.png"/></a>
-  <a href="#"><img width="32px" src="https://img.icons8.com/color/2x/javascript.png"/></a>
-  <a href="#"><img width="32px" src="https://img.icons8.com/color/2x/python.png"/></a>
-</p>
+<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim,html,bash,css,py,js" /></a></p>
 
 ## 💬 Languages that I speak
 
