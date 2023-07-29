@@ -2,7 +2,7 @@
 
 Hello, my name is Hecdin Farias.
 
-I am a friendly and responsible person who enjoys learning about technology and digital marketing topics.
+I am a friendly and responsible person who enjoys learning new things, especially regarding programming, engineering and digital marketing. I love collaborating with others to achieve common goals and I am always willing to help my colleagues with whatever they need.
 
 ## 📝 Proyects
 
@@ -13,7 +13,9 @@ I am a friendly and responsible person who enjoys learning about technology and 
 
 ## 💻 Languages and tools
 
-<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim,html,bash,css,py,js" /></a></p>
+<p align="left">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim,html,css,bash,js,lua,go" /></a>
+</p>
 
 ## 💬 Languages that I speak
 
