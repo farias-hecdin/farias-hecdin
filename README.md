@@ -13,9 +13,7 @@ I am a friendly and responsible person who enjoys learning new things, especiall
 
 ## 💻 Languages and tools
 
-<p align="left">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim,html,css,bash,js,lua,go" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=neovim,html,js,bash,lua,go&theme=light)](https://skillicons.dev)
 
 ## 💬 Languages that I speak
 
