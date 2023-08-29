@@ -7,9 +7,9 @@ I am a friendly and responsible person who enjoys learning new things, especiall
 ## 📝 Proyects
 
 * [Dotfiles](https://github.com/farias-hecdin/Dotfiles) - My personal dotfiles.
-* [HexToFilter](https://github.com/farias-hecdin/HexToFilter) - Add color to your SVG icons easily.
-* [Lare](https://github.com/farias-hecdin/Lare) - Decrease the bitrate of your MP3 files from the terminal.
-* [Luatiny](https://github.com/farias-hecdin/Luatiny) - Minifier for Lua files.
+* [HexToFilter](https://github.com/farias-hecdin/HexToFilter) - An easy way to change the color of SVG files using the CSS filter property.
+* [Lare](https://github.com/farias-hecdin/Lare) - Automates the reduction of bitrate for a batch of MP3 files.
+* [Luatiny](https://github.com/farias-hecdin/Luatiny) - Automates the minification of a batch of Lua files.
 
 ## 💻 Languages and tools
 
