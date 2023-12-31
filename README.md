@@ -10,7 +10,7 @@ I am a friendly and responsible person who enjoys learning new things, especiall
 * [`HexToFilter`](https://github.com/farias-hecdin/HexToFilter) - An easy way to change the color of SVG files using the CSS filter property.
 * [`Lare`](https://github.com/farias-hecdin/Lare) - Automates the reduction of bitrate for a batch of MP3 files.
 * [`Luatiny`](https://github.com/farias-hecdin/Luatiny) - Automates the minification of a batch of Lua files.
-* [`ColorCommander.nvim`](https://github.com/farias-hecdin/ColorCommander.nvim) - A neovim plugin to identify the name of a color HEX, RGB, HSL, LCH easily.
+* [`ColorCommander.nvim`](https://github.com/farias-hecdin/ColorCommander.nvim) - A Neovim plugin that facilitates the identification of a color name and its conversion.
 
 ## 💻 Languages and tools
 
