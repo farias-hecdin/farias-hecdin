@@ -14,7 +14,7 @@ I am a friendly and responsible person who enjoys learning new things, especiall
     * [`Luatiny`](https://github.com/farias-hecdin/Luatiny) - Automates the minification of a batch of Lua files.
 * Neovim:
     * [`Colorformat.nvim`](https://github.com/farias-hecdin/Colorformat.nvim) - A plugin that facilitates the identification of a color name and its conversion.
-    * [`Colorker.nvim`](https://github.com/farias-hecdin/Colorformat.nvim) - A plugin that will help you easily identify the colors defined in CSS variables.
+    * [`Colorker.nvim`](https://github.com/farias-hecdin/Colorker.nvim) - A plugin that will help you easily identify the colors defined in CSS variables.
 
 ## 📢 Languages
 
