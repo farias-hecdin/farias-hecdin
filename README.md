@@ -6,15 +6,16 @@ I am a friendly and responsible person who enjoys learning new things, especiall
 
 ## 📝 Proyects
 
-* [`Dotfiles`](https://github.com/farias-hecdin/Dotfiles) - My personal dotfiles.
-* Web apps:
+* WebApps:
     * [`HexToFilter`](https://github.com/farias-hecdin/HexToFilter) - An easy way to change the color of SVG files using the CSS filter property.
-* CLI apps:
+* Terminal:
     * [`Lare`](https://github.com/farias-hecdin/Lare) - Automates the reduction of bitrate for a batch of MP3 files.
     * [`Luatiny`](https://github.com/farias-hecdin/Luatiny) - Automates the minification of a batch of Lua files.
 * Neovim:
     * [`Colorformat.nvim`](https://github.com/farias-hecdin/Colorformat.nvim) - A plugin that facilitates the identification of a color name and its conversion.
     * [`Colorker.nvim`](https://github.com/farias-hecdin/Colorker.nvim) - A plugin that will help you easily identify the colors defined in CSS variables.
+* Other:
+    * [`Dotfiles`](https://github.com/farias-hecdin/Dotfiles) - My personal dotfiles.
 
 ## 📢 Languages
 
