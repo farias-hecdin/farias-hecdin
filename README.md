@@ -20,7 +20,7 @@ I am a friendly and responsible person who enjoys learning new things, especiall
 
 ## 📢 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,bash,lua,go,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,lua,go,php,nim&theme=light)](https://skillicons.dev)
 
 ## 💻 Tools
 
