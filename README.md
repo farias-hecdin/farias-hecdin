@@ -11,6 +11,7 @@ I am a friendly and responsible person who enjoys learning new things, especiall
 * Terminal:
     * [`Lare`](https://github.com/farias-hecdin/Lare) - Automates the reduction of bitrate for a batch of MP3 files.
     * [`Luatiny`](https://github.com/farias-hecdin/Luatiny) - Automates the minification of a batch of Lua files.
+    * [`Impzy`](https://github.com/farias-hecdin/Impzy) - Automates the import of elements (e.g. React.js components) in an index file.
 * Neovim:
     * [`CSSColorConverter`](https://github.com/farias-hecdin/CSSColorConverter) - A plugin that facilitates the identification of a color name and its conversion.
     * [`CSSVarHighlight`](https://github.com/farias-hecdin/CSSVarHighlight) - A plugin that will help you easily identify the colors defined in CSS variables.
