@@ -43,6 +43,8 @@ I am a friendly and responsible person who enjoys learning new things, especiall
    &nbsp;
 <img height="40" width="40" src="https://cdn.simpleicons.org/git/_/888">
    &nbsp;
+<img height="40" width="40" src="https://cdn.simpleicons.org/neovim/_/888">
+   &nbsp;
 <img height="40" width="40" src="https://cdn.simpleicons.org/poe/_/888">
 </div>
 
