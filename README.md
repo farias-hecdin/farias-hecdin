@@ -21,11 +21,31 @@ I am a friendly and responsible person who enjoys learning new things, especiall
 
 ## 📢 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,lua,go,php,nim&theme=light)](https://skillicons.dev)
+<div style="display: flex">
+<img height="40" width="40" src="https://cdn.simpleicons.org/html5/_/888">
+  &nbsp;
+<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/_/888">
+  &nbsp;
+<img height="40" width="40" src="https://cdn.simpleicons.org/lua/_/888">
+  &nbsp;
+<img height="40" width="40" src="https://cdn.simpleicons.org/go/_/888">
+  &nbsp;
+<img height="40" width="40" src="https://cdn.simpleicons.org/php/_/888">
+  &nbsp;
+<img height="40" width="40" src="https://cdn.simpleicons.org/nim/_/888">
+</div>
+
 
 ## 💻 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,git&theme=light)](https://skillicons.dev)
+<div style="display: flex">
+<img height="40" width="40" src="https://cdn.simpleicons.org/android/_/888">
+   &nbsp;
+<img height="40" width="40" src="https://cdn.simpleicons.org/git/_/888">
+   &nbsp;
+<img height="40" width="40" src="https://cdn.simpleicons.org/poe/_/888">
+</div>
+
 
 ## 💬 Languages that I speak
 
