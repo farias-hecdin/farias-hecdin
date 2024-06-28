@@ -16,6 +16,8 @@ I am a friendly and responsible person who enjoys learning new things, especiall
     * [`CSSColorConverter`](https://github.com/farias-hecdin/CSSColorConverter) - A plugin that facilitates the identification of a color name and its conversion.
     * [`CSSVarHighlight`](https://github.com/farias-hecdin/CSSVarHighlight) - A plugin that will help you easily identify the colors defined in CSS variables.
     * [`CSSVarViewer`](https://github.com/farias-hecdin/CSSVarViewer) - A plugin that allows you to easily identify the value of a CSS variable from any other file.
+* Nim:
+    * [`Cmdos`](https://github.com/farias-hecdin/Cmdos) - A simple way to process command-line arguments.
 * Other:
     * [`Dotfiles`](https://github.com/farias-hecdin/Dotfiles) - My personal dotfiles.
 
